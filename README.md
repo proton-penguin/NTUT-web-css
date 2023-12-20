@@ -1,4 +1,5 @@
 #  臺北科大課程網站 - Graphite 主題
+this repository is a mirror of https://codeberg.org/proton-penguin/NTUT-web-css
 ## download for Firefox, LibreWolf
 [![](https://img.shields.io/badge/Firefox_Addons-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://addons.mozilla.org/zh-TW/android/addon/tampermonkey/)
 ## download for Chrome, Brave, Edge
